@@ -1,0 +1,21 @@
+{
+  "name": "inventory-management-api",
+  "version": "1.0.0",
+  "description": "Inventory & Stock Management REST API with Low-Stock Alerts & Tailwind CSS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Rana Yasir Mahy Ud Din (https://ranayasir.unaux.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sameerjeez88-max/inventory-management-api.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
